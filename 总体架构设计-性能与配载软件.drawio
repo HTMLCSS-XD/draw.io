@@ -1,9 +1,54 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" version="24.8.4">
   <diagram name="第 1 页" id="b2vOqKkzKqLCKJ7MbKT2">
-    <mxGraphModel>
+    <mxGraphModel dx="2019" dy="1189" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="TeaAvY8PEz7aDLMQ-qGn-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;labelBackgroundColor=#ffe6cc;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="110" y="160" width="640" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="TeaAvY8PEz7aDLMQ-qGn-2" value="&lt;span style=&quot;color: rgb(6, 6, 7); font-family: -apple-system, blinkmacsystemfont, &amp;quot;Helvetica Neue&amp;quot;, helvetica, &amp;quot;segoe ui&amp;quot;, arial, roboto, &amp;quot;PingFang SC&amp;quot;, miui, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft Yahei&amp;quot;, sans-serif; font-size: 14px; letter-spacing: 0.25px; white-space-collapse: preserve;&quot;&gt;负责从多个外部数据源（如气象服务、空管系统、航空公司运营数据库等）实时收集天气、空域、航班计划和实时飞行状态等关键数据。这一层还包括数据预处理功能，确保收集到的数据经过清洗、格式化和标准化处理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="210" y="180" width="510" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="TeaAvY8PEz7aDLMQ-qGn-3" value="&lt;h3 style=&quot;box-sizing: inherit; color: rgb(6, 6, 7); margin-bottom: 0px; font-size: 14px; line-height: 24px; margin-top: 1.14em; font-family: -apple-system, blinkmacsystemfont, &amp;quot;Helvetica Neue&amp;quot;, helvetica, &amp;quot;segoe ui&amp;quot;, arial, roboto, &amp;quot;PingFang SC&amp;quot;, miui, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft Yahei&amp;quot;, sans-serif; letter-spacing: 0.5px;&quot;&gt;数据采集与处理层&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;gradientColor=none;labelBackgroundColor=#ffe6cc;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="120" y="175" width="40" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="TeaAvY8PEz7aDLMQ-qGn-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;labelBackgroundColor=#ffe6cc;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="110" y="350" width="640" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="TeaAvY8PEz7aDLMQ-qGn-6" value="&lt;span style=&quot;color: rgb(6, 6, 7); font-family: -apple-system, blinkmacsystemfont, &amp;quot;Helvetica Neue&amp;quot;, helvetica, &amp;quot;segoe ui&amp;quot;, arial, roboto, &amp;quot;PingFang SC&amp;quot;, miui, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft Yahei&amp;quot;, sans-serif; font-size: 14px; letter-spacing: 0.25px; white-space-collapse: preserve;&quot;&gt;封装了所有的业务逻辑和核心服务，包括航班延误预警、信息集成与发布、延误处置辅助决策和恢复策略生成等。这一层处理数据、执行决策算法、管理用户请求和响应，以及与其他服务的交互，确保系统能够根据实时数据和预设规则，自动或辅助用户做出及时的决策&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="210" y="370" width="510" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="TeaAvY8PEz7aDLMQ-qGn-7" value="&lt;h3 style=&quot;box-sizing: inherit; color: rgb(6, 6, 7); margin-bottom: 0px; font-size: 14px; line-height: 24px; margin-top: 1.14em; font-family: -apple-system, blinkmacsystemfont, &amp;quot;Helvetica Neue&amp;quot;, helvetica, &amp;quot;segoe ui&amp;quot;, arial, roboto, &amp;quot;PingFang SC&amp;quot;, miui, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft Yahei&amp;quot;, sans-serif; letter-spacing: 0.5px;&quot;&gt;服务与逻辑层&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;gradientColor=none;labelBackgroundColor=#ffe6cc;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="120" y="365" width="40" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="TeaAvY8PEz7aDLMQ-qGn-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;labelBackgroundColor=#ffe6cc;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="110" y="540" width="640" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="TeaAvY8PEz7aDLMQ-qGn-9" value="&lt;span style=&quot;color: rgb(6, 6, 7); font-family: -apple-system, blinkmacsystemfont, &amp;quot;Helvetica Neue&amp;quot;, helvetica, &amp;quot;segoe ui&amp;quot;, arial, roboto, &amp;quot;PingFang SC&amp;quot;, miui, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft Yahei&amp;quot;, sans-serif; font-size: 14px; letter-spacing: 0.25px; white-space-collapse: preserve;&quot;&gt;应用与用户界面层直接面向用户，提供直观、易用的操作界面和丰富的应用功能。它为不同用户角色（如航空公司调度员、空管人员、机场运营人员等）提供定制化的界面，展示相关信息和工具，支持数据的筛选、排序、查找和发布。&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="210" y="560" width="510" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="TeaAvY8PEz7aDLMQ-qGn-10" value="&lt;h3 style=&quot;box-sizing: inherit; color: rgb(6, 6, 7); margin-bottom: 0px; font-size: 14px; line-height: 24px; margin-top: 1.14em; font-family: -apple-system, blinkmacsystemfont, &amp;quot;Helvetica Neue&amp;quot;, helvetica, &amp;quot;segoe ui&amp;quot;, arial, roboto, &amp;quot;PingFang SC&amp;quot;, miui, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft Yahei&amp;quot;, sans-serif; letter-spacing: 0.5px;&quot;&gt;&amp;nbsp;应用与用户界面层&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;gradientColor=none;labelBackgroundColor=#ffe6cc;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="120" y="555" width="40" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="TeaAvY8PEz7aDLMQ-qGn-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;labelBackgroundColor=#ffe6cc;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="110" y="730" width="640" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="TeaAvY8PEz7aDLMQ-qGn-12" value="&lt;span style=&quot;color: rgb(6, 6, 7); font-family: -apple-system, blinkmacsystemfont, &amp;quot;Helvetica Neue&amp;quot;, helvetica, &amp;quot;segoe ui&amp;quot;, arial, roboto, &amp;quot;PingFang SC&amp;quot;, miui, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft Yahei&amp;quot;, sans-serif; font-size: 14px; letter-spacing: 0.25px; white-space-collapse: preserve;&quot;&gt;确保系统的运行符合行业标准和法规要求。这一层实施了身份验证、数据加密、安全传输等安全措施，防止未授权访问和数据泄露&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="210" y="750" width="510" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="TeaAvY8PEz7aDLMQ-qGn-13" value="&lt;h3 style=&quot;box-sizing: inherit; color: rgb(6, 6, 7); margin-bottom: 0px; font-size: 14px; line-height: 24px; margin-top: 1.14em; font-family: -apple-system, blinkmacsystemfont, &amp;quot;Helvetica Neue&amp;quot;, helvetica, &amp;quot;segoe ui&amp;quot;, arial, roboto, &amp;quot;PingFang SC&amp;quot;, miui, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft Yahei&amp;quot;, sans-serif; letter-spacing: 0.5px;&quot;&gt;安全与合规层&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;gradientColor=none;labelBackgroundColor=#ffe6cc;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="120" y="745" width="40" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="TeaAvY8PEz7aDLMQ-qGn-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;labelBackgroundColor=#ffe6cc;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="110" y="923" width="640" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="TeaAvY8PEz7aDLMQ-qGn-15" value="&lt;span style=&quot;color: rgb(6, 6, 7); font-family: -apple-system, blinkmacsystemfont, &amp;quot;Helvetica Neue&amp;quot;, helvetica, &amp;quot;segoe ui&amp;quot;, arial, roboto, &amp;quot;PingFang SC&amp;quot;, miui, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft Yahei&amp;quot;, sans-serif; font-size: 14px; letter-spacing: 0.25px; white-space-collapse: preserve;&quot;&gt;监控与维护层负责确保系统的稳定运行和长期可维护性，通过系统监控工具实时跟踪系统性能和健康状况，快速识别和响应潜在的问题，还包括日志管理、备份与恢复机制，以及系统的更新和扩展支持，确保在面对系统故障或数据丢失时，能够迅速恢复服务并适应未来的需求变化。&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="210" y="943" width="510" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="TeaAvY8PEz7aDLMQ-qGn-16" value="&lt;h3 style=&quot;box-sizing: inherit; color: rgb(6, 6, 7); margin-bottom: 0px; font-size: 14px; line-height: 24px; margin-top: 1.14em; font-family: -apple-system, blinkmacsystemfont, &amp;quot;Helvetica Neue&amp;quot;, helvetica, &amp;quot;segoe ui&amp;quot;, arial, roboto, &amp;quot;PingFang SC&amp;quot;, miui, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft Yahei&amp;quot;, sans-serif; letter-spacing: 0.5px;&quot;&gt;监控与维护层&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;gradientColor=none;labelBackgroundColor=#ffe6cc;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="120" y="938" width="40" height="110" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
