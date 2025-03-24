@@ -500,7 +500,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nhVXa6znHg48Xm_c4XAS-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nhVXa6znHg48Xm_c4XAS-15" target="nhVXa6znHg48Xm_c4XAS-19">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-50" y="351" />
+              <mxPoint x="-50" y="230" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="nhVXa6znHg48Xm_c4XAS-15" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;aspect=fixed;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="-105.5" y="340.88" width="20" height="20" as="geometry" />
