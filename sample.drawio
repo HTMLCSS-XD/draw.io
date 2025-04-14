@@ -241,6 +241,9 @@
         <mxCell id="K-rQHarK1mUHMqbomgQv-1" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;动态点采样集生成器&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="411" y="1358" width="160" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="K-rQHarK1mUHMqbomgQv-5" value="Sampling based dynamic upsampling" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="730" width="230" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
