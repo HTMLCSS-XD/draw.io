@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0" version="28.2.5">
   <diagram name="第 1 页" id="IPQzzbcNh04fH0RfDCq0">
-    <mxGraphModel dx="1973" dy="487" grid="1" gridSize="14" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
+    <mxGraphModel dx="2528" dy="823" grid="1" gridSize="14" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,10 +10,10 @@
             <mxPoint x="-316" y="209" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nhVXa6znHg48Xm_c4XAS-33" value="&lt;div&gt;&lt;span style=&quot;font-size: 8.83pt;&quot;&gt;(a) Dual-layer routing attention mechanism&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;" parent="1" vertex="1">
+        <mxCell id="nhVXa6znHg48Xm_c4XAS-33" value="&lt;div&gt;&lt;font&gt;(a) Dual-layer routing attention mechanism&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="-775" y="599" width="238" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="nhVXa6znHg48Xm_c4XAS-34" value="(b) BiFormer&amp;nbsp;&lt;span style=&quot;font-size: 9pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Module&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;" parent="1" vertex="1">
+        <mxCell id="nhVXa6znHg48Xm_c4XAS-34" value="&lt;font&gt;(b) BiFormer&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Module&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="-321.5" y="599" width="140" height="28" as="geometry" />
         </mxCell>
         <mxCell id="X16hxOruJ00GdKI6M2RN-1" value="" style="group;fontFamily=Times New Roman;" parent="1" vertex="1" connectable="0">
