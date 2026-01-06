@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="29.2.9">
   <diagram name="第 1 页" id="Nnyew8ETGwmeY_K9eIe8">
-    <mxGraphModel dx="1236" dy="656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
+    <mxGraphModel dx="2225" dy="1180" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -184,14 +184,14 @@
             <mxPoint x="770" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lRYXhniIAB6X2m_Xp-LS-217" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;" value="&lt;div&gt;&lt;font&gt;(a) Dual-layer routing attention mechanism&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="28" width="238" x="290" y="561.25" as="geometry" />
+        <mxCell id="lRYXhniIAB6X2m_Xp-LS-217" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;" value="&lt;div&gt;&lt;font&gt;(a) &lt;font face=&quot;宋体&quot;&gt;双层路由注意力&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;BRA&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;原理图&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="180" x="319" y="561.25" as="geometry" />
         </mxCell>
-        <mxCell id="lRYXhniIAB6X2m_Xp-LS-218" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;" value="&lt;font&gt;(b) BiFormer&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Module&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="28" width="140" x="764.95" y="562.25" as="geometry" />
+        <mxCell id="lRYXhniIAB6X2m_Xp-LS-218" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;" value="&lt;font&gt;(b) BiFormer 模块&lt;font face=&quot;宋体&quot;&gt;结构&lt;/font&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="140" x="764.95" y="562.25" as="geometry" />
         </mxCell>
-        <mxCell id="lRYXhniIAB6X2m_Xp-LS-353" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;" value="&lt;font&gt;(c) C2B&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Module&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="100" x="968.0000000000001" y="561.25" as="geometry" />
+        <mxCell id="lRYXhniIAB6X2m_Xp-LS-353" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;" value="&lt;font&gt;(c) C2B 模块&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;结构&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="110" x="963.0000000000001" y="561.25" as="geometry" />
         </mxCell>
         <mxCell id="lRYXhniIAB6X2m_Xp-LS-357" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="271.25" width="668.6531082118188" x="94" y="183.75" as="geometry" />
