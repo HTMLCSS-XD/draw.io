@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="29.2.9">
   <diagram name="第 1 页" id="Nnyew8ETGwmeY_K9eIe8">
-    <mxGraphModel dx="1712" dy="908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
+    <mxGraphModel dx="2225" dy="1180" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="lRYXhniIAB6X2m_Xp-LS-361" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="224.6244827586205" width="510" x="240.00000000000009" y="180" as="geometry" />
+          <mxGeometry height="224.6244827586205" width="510" x="280.0000000000001" y="324" as="geometry" />
         </mxCell>
         <mxCell id="lRYXhniIAB6X2m_Xp-LS-362" parent="lRYXhniIAB6X2m_Xp-LS-361" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#e1d5e7;strokeColor=#9673a6;size=25;rotation=90;aspect=fixed;fontFamily=Times New Roman;fontSize=12;container=0;" value="" vertex="1">
           <mxGeometry height="110.98" width="110.98" x="404" y="87.60000000000002" as="geometry" />
@@ -74,7 +74,7 @@
           <mxGeometry height="30" width="60" x="30.00333333333333" y="164.62103448275866" as="geometry" />
         </mxCell>
         <mxCell id="lRYXhniIAB6X2m_Xp-LS-430" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="227" width="654.3000000000002" x="210" y="443" as="geometry" />
+          <mxGeometry height="227" width="654.3000000000002" x="240" y="50" as="geometry" />
         </mxCell>
         <mxCell id="lRYXhniIAB6X2m_Xp-LS-384" edge="1" parent="lRYXhniIAB6X2m_Xp-LS-430" source="lRYXhniIAB6X2m_Xp-LS-424" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;" target="lRYXhniIAB6X2m_Xp-LS-388">
           <mxGeometry relative="1" as="geometry">
@@ -230,11 +230,11 @@
         <mxCell id="lRYXhniIAB6X2m_Xp-LS-427" edge="1" parent="lRYXhniIAB6X2m_Xp-LS-430" source="lRYXhniIAB6X2m_Xp-LS-413" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Times New Roman;" target="lRYXhniIAB6X2m_Xp-LS-395">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lRYXhniIAB6X2m_Xp-LS-431" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Times New Roman&quot;&gt;(a) 动态点集采样过程&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="150" x="440" y="390" as="geometry" />
+        <mxCell id="lRYXhniIAB6X2m_Xp-LS-431" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Times New Roman&quot;&gt;(a) 动态点采样&lt;/font&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;集生成&lt;/span&gt;&lt;font face=&quot;Times New Roman&quot;&gt;过程&lt;/font&gt;" vertex="1">
+          <mxGeometry height="31.38" width="150" x="450" y="270" as="geometry" />
         </mxCell>
         <mxCell id="lRYXhniIAB6X2m_Xp-LS-432" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Times New Roman&quot;&gt;(b)&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 9pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;DySample &lt;/span&gt;&lt;span style=&quot;font-size: 9pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;结构图&lt;/font&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="120" x="435" y="690" as="geometry" />
+          <mxGeometry height="30" width="120" x="465" y="560" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
